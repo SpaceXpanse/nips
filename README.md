@@ -1,4 +1,5 @@
 # NIPs
+## Modified to meet the needs of ROD blockchain
 
 NIPs stand for **Nostr Implementation Possibilities**.
 They exist to document what may be implemented by [Nostr](https://github.com/nostr-protocol/nostr)-compatible _relay_ and _client_ software.
